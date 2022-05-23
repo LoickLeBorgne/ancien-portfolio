@@ -86,4 +86,13 @@
     .test p{
       height: 100px;
     }
+    input{
+      width: 250px;
+    }
+    textarea{
+      width: 250px;
+    }
+    #form{
+    
+    }
   }

@@ -589,7 +589,6 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   
   #form {
     position: relative;
-    width: 500px;
     margin: 50px auto 100px auto;
   }
   
