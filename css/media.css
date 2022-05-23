@@ -71,7 +71,7 @@
       right: 50%;
     }
     .btn-middle{
-      top: 85%;
+      top: 92%;
       display: flex;
       text-align: center;
     }
@@ -92,7 +92,7 @@
     textarea{
       width: 250px;
     }
-    #form{
-    
+    .continuer{
+      display: none;
     }
   }
