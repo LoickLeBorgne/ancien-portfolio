@@ -99,3 +99,34 @@
       width: auto;
     }
   }
+
+
+  @media screen and (max-width: 400px){
+    .about img{
+      padding: 0;
+    }
+    .about{
+      font-size: 15px;
+      position: absolute;
+    }
+
+    .text-box a{
+      padding: 5px;
+    }
+    .test{
+      font-size: 15px;
+      padding: 0;
+    }
+    .btn-middle{
+      top: 99%;
+    }
+    .container-skill{
+      margin-top: 3em;
+    }
+    .content h2{
+      font-size: 15px;
+    }
+    .content-title{
+      font-size: 10px;
+    }
+  }
